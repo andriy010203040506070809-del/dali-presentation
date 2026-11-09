@@ -1,0 +1,12 @@
+node_modules/
+_tmp_pptx/
+humanizer-живий-текст/
+pptx-презентації/
+ui-ux-дизайн/
+*.pptx
+CLAUDE.md
+create_presentation.js
+generate_ornaments.js
+package.json
+package-lock.json
+.vercel
